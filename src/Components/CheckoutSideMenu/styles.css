@@ -1,0 +1,11 @@
+.checkout-side-menu {
+    width: 360px;
+    height: calc(90vh);
+    padding-top: 0%;
+    bottom: 0;
+    
+}
+
+.total-price {
+    width: 360px;
+}
